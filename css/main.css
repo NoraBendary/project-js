@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(4, 31, 66);
+}
+
+.card{
+    background-color: rgb(5, 45, 97);
+    color: seashell;
+}
+
+.btn{
+    background-color: rgb(8, 74, 160);
+}
+
+.display{
+    display: none;
+}
+
+.cheked{
+    text-decoration: line-through;
+    background-color:  grey;
+}
